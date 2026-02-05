@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "camera_keybinds",
+	"version": "${version}",
+	"name": "Camera Keybinds",
+	"description": "Perspective switching keybinds",
+	"authors": [
+      "Lukasz825700516", "Xanthian"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "https://github.com/xanthian/CameraKeybinds"
+	},
+	"license": "GNU General Public License v3.0",
+	"icon": "assets/camera_keybinds/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"net.xanthian.camera_keybinds.CameraKeyBinds"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
