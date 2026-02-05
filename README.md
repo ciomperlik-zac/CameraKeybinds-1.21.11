@@ -1,5 +1,5 @@
 # Camera Keybinds
-Minecraft mod (Fabric) for perspective switching keybinds! This is a port of Lukasz825700516 and Xanthian's [mod](https://github.com/xanthian/CameraKeybinds/) to 1.21.11 that and has been migrated to Mojmap mappings.
+Minecraft mod (Fabric) for perspective switching keybinds! This is a port of Lukasz825700516 and Xanthian's [mod](https://github.com/xanthian/CameraKeybinds/) to 1.21.11 that has been migrated to Mojmap mappings.
 
 ## Features
 Change your perspective to:
